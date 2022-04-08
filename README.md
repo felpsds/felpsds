@@ -1,1 +1,1 @@
-![Snake animation](https://github.com/felpsds/felpsds/blob/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
